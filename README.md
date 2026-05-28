@@ -1,6 +1,6 @@
 # Hi there, I'm Nayeem👋
 
-I am a Computer Science student with a strong passion for problem-solving, competitive programming, and continuous learning in software development and emerging technologies.
+CS student focused on problem-solving and competitive programming. Exploring Software Development, Cybersecurity, and Machine Learning through DSA and real-world projects.
 
 ---
 
