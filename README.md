@@ -53,6 +53,8 @@ My goal is to consistently improve my problem-solving skills and grow into a top
 
 I am always open to learning, collaboration, and discussions around programming and technology.
 
+**LinkedIn:** [kmnayeem](https://www.linkedin.com/in/kmnayeem)
+
 ---
 
 > “The best way to get better at problem solving is to solve more problems.”
