@@ -291,32 +291,6 @@ I aim to become a Software Engineer with strong fundamentals in problem solving,
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/lifetime.dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="./assets/lifetime.light.svg"
-  />
-  <img
-    src="./assets/lifetime.light.svg"
-    width="100%"
-    alt="GitHub Contribution History"
-  />
-</picture>
-
-</div>
-
-
-
----
-
 # 🤝 Connect With Me
 
 <div align="center">
