@@ -293,9 +293,12 @@ I aim to become a Software Engineer with strong fundamentals in problem solving,
 
 # 📈 Contribution Graph
 
-<div align="center"> 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kmnayeem&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" /> 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kmnayeem&theme=react-dark&hide_border=true&area=true" alt="Abdullah Al Nayeem's GitHub Contribution Graph" />
+
 </div>
+
 
 ---
 
